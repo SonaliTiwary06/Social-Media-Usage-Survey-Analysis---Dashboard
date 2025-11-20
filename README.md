@@ -97,11 +97,3 @@ If you have feedback, suggestions, or collaboration ideas, feel free to reach ou
 **📧 Email:** [sonai.dtg1@gmail.com](mailto:sonai.dtg1@gmail.com)
 **👤 Created by:** Sonali
 
----
-
-✦ *Social Media Usage Analysis Dashboard*
-✦ *A complete BI visualization of digital behavior trends*
-
----
-
-If you want, I can format the README in **more stylish Markdown**, add **badges**, or include a **project description for LinkedIn** too!
